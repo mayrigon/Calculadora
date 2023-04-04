@@ -46,7 +46,7 @@ export default {
 
 .button.operation {
     background-color: #fa8231;
-    color: #fff;
+    color: #ffff;
 }
  
 .button.operation:active {
